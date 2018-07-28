@@ -21,6 +21,8 @@ Within the Environments tab, click the "Create" button. Python will be selected 
 
 This is located under the Home tab of Anaconda.
 
-**4. In RStudio, install keras.**
+**4. In RStudio, install keras, jpeg, and png.**
 
-`> install.packages("keras")`
+jpeg and png are packages for handling JPG and PNG files. These aren't necessary to use keras, but will be used to examples to test the fidelity of our model.
+
+`> install.packages(c("keras", "jpeg", "png"))`
