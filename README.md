@@ -2,6 +2,7 @@
 ### SOMRC Machine Learning Hackathon | July 31, 2018
 
 > * [Installing Keras for RStudio using Anaconda](#installing-keras-for-rstudio-using-anaconda)
+> * [Sources](#sources)
 ----
 ## Installing Keras for RStudio using Anaconda
 
@@ -23,6 +24,8 @@ This is located under the Home tab of Anaconda.
 
 **4. In RStudio, install keras, jpeg, and png.**
 
-jpeg and png are packages for handling JPG and PNG files. These aren't necessary to use keras, but will be used to examples to test the fidelity of our model.
+jpeg and png are packages for handling JPG and PNG files. These aren't necessary to use keras, but will be used to examples to test the fidelity of our model with new images.
 
 `> install.packages(c("keras", "jpeg", "png"))`
+----
+## Sources
