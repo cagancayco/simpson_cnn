@@ -1,9 +1,9 @@
 # Image Classification with Keras and CNNs
 ### SOMRC Machine Learning Hackathon | July 31, 2018
 
-> * [Installing Keras for RStudio using Anaconda](#install_keras)
+> * [Installing Keras for RStudio using Anaconda](#installing-keras-for-rstudio-using-anaconda)
 ----
-## <a name="install_keras">Installing Keras for RStudio using Anaconda</a>
+## Installing Keras for RStudio using Anaconda
 
 \*If you don't have Anaconda already, download Anaconda [here](https://www.anaconda.com/download) and install on your computer.
 
