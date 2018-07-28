@@ -27,5 +27,6 @@ This is located under the Home tab of Anaconda.
 jpeg and png are packages for handling JPG and PNG files. These aren't necessary to use keras, but will be used to examples to test the fidelity of our model with new images.
 
 `> install.packages(c("keras", "jpeg", "png"))`
+
 ----
 ## Sources
