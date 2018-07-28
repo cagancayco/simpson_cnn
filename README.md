@@ -18,7 +18,7 @@ Within the Environments tab, click the "Create" button. Python will be selected 
 * tensorflow
 * matplotlib
 
-**3. Install and launch RStudio.**
+**3. Install and launch RStudio from Anaconda.**
 
 This is located under the Home tab of Anaconda.
 
