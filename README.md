@@ -2,6 +2,7 @@
 ### SOMRC Machine Learning Hackathon | July 31, 2018
 
 > * [Installing Keras for RStudio using Anaconda](#installing-keras-for-rstudio-using-anaconda)
+> * [Downloading the Dataset](#downloading-the-dataset)
 > * [Sources](#sources)
 ----
 ## Installing Keras for RStudio using Anaconda
