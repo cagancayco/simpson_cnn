@@ -31,6 +31,7 @@ jpeg and png are packages for handling JPG and PNG files. These aren't necessary
 ----
 ## Sources
 
-1. Original Dataset: [https://www.kaggle.com/alexattia/the-simpsons-characters-dataset](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
-2. Inspiration: [https://medium.com/@seixaslipe/building-a-simpsons-classifier-with-deep-learning-in-keras-36a47fe17f79](https://medium.com/@seixaslipe/building-a-simpsons-classifier-with-deep-learning-in-keras-36a47fe17f79)
-3. Coding with Keras in R vs Python: [https://www.r-bloggers.com/r-vs-python-image-classification-with-keras/](https://www.r-bloggers.com/r-vs-python-image-classification-with-keras/)
+1. Keras: [https://keras.io/](https://keras.io/)
+2. Original Dataset: [https://www.kaggle.com/alexattia/the-simpsons-characters-dataset](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
+3. Inspiration: [https://medium.com/@seixaslipe/building-a-simpsons-classifier-with-deep-learning-in-keras-36a47fe17f79](https://medium.com/@seixaslipe/building-a-simpsons-classifier-with-deep-learning-in-keras-36a47fe17f79)
+4. Coding with Keras in R vs Python: [https://www.r-bloggers.com/r-vs-python-image-classification-with-keras/](https://www.r-bloggers.com/r-vs-python-image-classification-with-keras/)
