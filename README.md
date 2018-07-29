@@ -29,6 +29,15 @@ jpeg and png are packages for handling JPG and PNG files. These aren't necessary
 `> install.packages(c("keras", "jpeg", "png"))`
 
 ----
+## Downloading the Dataset
+
+**1. Download the dataset from Box: [https://virginia.box.com/v/somrc-hackathon-2018-07-31](https://virginia.box.com/v/somrc-hackathon-2018-07-31)**
+
+**2. Unpack the tarball using the command line.**
+
+`> tar -xzf the-simpsons-characters-dataset.tgz`
+
+----
 ## Sources
 
 1. Keras: [https://keras.io/](https://keras.io/)
