@@ -46,3 +46,4 @@ jpeg and png are packages for handling JPG and PNG files. These aren't necessary
 3. Inspiration: [https://medium.com/@seixaslipe/building-a-simpsons-classifier-with-deep-learning-in-keras-36a47fe17f79](https://medium.com/@seixaslipe/building-a-simpsons-classifier-with-deep-learning-in-keras-36a47fe17f79)
 4. Coding with Keras in R vs Python: [https://www.r-bloggers.com/r-vs-python-image-classification-with-keras/](https://www.r-bloggers.com/r-vs-python-image-classification-with-keras/)
 5. Deep Learning Coursera Specialization: [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
+6. Other Datasets: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
